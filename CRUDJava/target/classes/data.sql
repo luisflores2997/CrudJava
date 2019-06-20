@@ -1,0 +1,11 @@
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Laura','Perez','24','laura.perez@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Karla','Guzman','25','karla.guzman@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Rosa','Aguilar','21','rosa.aguilar@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Maria','Larios','20','maria.larios@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Luis','Munguia','29','luis.munguia@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Ana','Gomez','23','ana.gomez@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Jessica','Orozco','22','jessica.orozco@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Sowie','Hill','28','sowie.hill@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Ivan','Pinto','30','ivan.pinto@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Carlos','Ruiz','33','carlos.ruiz@4thsource.com');
+INSERT INTO CLIENTS(NAME , LAST_NAME, AGE ,EMAIL ) VALUES ('Julia','Guardia','36','julia.guardia@4thsource.com');
